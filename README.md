@@ -19,7 +19,7 @@ A estrutura da rede foi dividida da seguinte forma:
 
 Os comandos executados no terminal do roteador para isolar, proteger e ativar as interfaces foram documentados no arquivo de script deste repositório.
 
-* O passo a passo dos comandos CLI pode ser consultado diretamente no arquivo [config-roteador.ios](./config-roteador.ios).
+* O passo a passo dos comandos CLI pode ser consultado diretamente no arquivo "Comandos-config-roteador".
 
 #### Resumo dos comandos utilizados:
 * `hostname nexus` — Define o nome do dispositivo.
